@@ -3,6 +3,9 @@ In this study, we improve the performance of human-object interaction based on a
 The study achieves a significant improvement compared to the baseline HOTR model and is very competitive with other models
 <!-- <p align="center"><img width="60%" src="./imgs/Visualize.drawio.pdf"></p> -->
 <iframe width="60%" src="./imgs/Visualize.drawio.pdf"></iframe>
+
+[Some title here](./imgs/Visualize.drawio.pdf)
+
 We proposed three modules.: Enhanced Instance Pointers, Semantic-guided Mechanism, Multi-level cross-attention
 
 <p align="center"><img width="100%" src="./imgs/framework.drawio.pdf"></p>
