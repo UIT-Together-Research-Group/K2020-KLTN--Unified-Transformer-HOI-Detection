@@ -1,8 +1,8 @@
 # Improving Human-object Interaction with Auxiliary Semantic Information and Enhanced Instance Representation
 In this study, we improve the performance of human-object interaction based on an end-to-end Transformer-based model called HOTR. In detail, we propose a simple but effective mechanism for enhancing the instances representation; moreover the semantic information is also explored to provide more knowledge; and finally, the cross-attention is proposed to fuse multi-level high-level feature maps in the Transformer architecture.
 The study achieves a significant improvement compared to the baseline HOTR model and is very competitive with other models
-<p align="center"><img width="60%" src="./imgs/Visualize.drawio.pdf"></p>
-
+<!-- <p align="center"><img width="60%" src="./imgs/Visualize.drawio.pdf"></p> -->
+<iframe width="60%" src="./imgs/Visualize.drawio.pdf">
 We proposed three modules.: Enhanced Instance Pointers, Semantic-guided Mechanism, Multi-level cross-attention
 
 <p align="center"><img width="100%" src="./imgs/framework.drawio.pdf"></p>
