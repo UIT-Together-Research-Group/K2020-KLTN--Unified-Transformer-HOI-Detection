@@ -5,7 +5,7 @@ The study achieves a significant improvement compared to the baseline HOTR model
 
 We proposed three modules.: Enhanced Instance Pointers, Semantic-guided Mechanism, Multi-level cross-attention
 
-<p align="center"><img width="100%" src="./imgs/framework.jpg"></p>
+<p align="center"><img width="100%" src="./imgs/Framework.jpg"></p>
 
 
 ## 1. Environmental Setup
