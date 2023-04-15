@@ -90,8 +90,8 @@ Here, we provide improved results of V-COCO Scenario 1 (58.9 mAP, 0.5ms) and HIC
 This is obtained "without" applying any priors on the scores (see [iCAN](https://github.com/vt-vl-lab/iCAN/blob/83a363cfc80bf62538d5faf6ec17c871686c0635/lib/ult/apply_prior.py)).
 The fine-tuned version of HICO-DET can be obtained by only fine-tuning the FFN layers of the instance decoder (without the need of fully training the entire encoder-decoder).
 
-| Epoch | # queries | Scenario 1   | Scenario 2  | Checkpoint   |
-|:-----:|:---------:|:------------:|:-----------:|:------------:|
-|  100  |     16    |     58.9     |     63.8    | [download](https://arena.kakaocdn.net/brainrepo/hotr/vcoco_q16.pth)  |
+# queries | Scenario 1   | Scenario 2  | Checkpoint   |
+|:-------:|:------------:|:-----------:|:------------:|
+|    16   |     60.88     |     65.69    | [download](https://drive.google.com/file/d/1qhi5Qi6fh6rV5uBOQ09DBOcW7lroRZ1I/view)  |
 
 ```
