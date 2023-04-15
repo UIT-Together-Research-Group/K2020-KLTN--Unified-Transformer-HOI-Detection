@@ -4,7 +4,7 @@ The study achieves a significant improvement compared to the baseline HOTR model
 <!-- <p align="center"><img width="60%" src="./imgs/Visualize.drawio.pdf"></p> -->
 <iframe width="60%" src="./imgs/Visualize.drawio.pdf"></iframe>
 
-<iframe src="./imgs/Visualize.drawio.pdf" width="60%" frameborder="0" />
+<iframe src="./imgs/Visualize.drawio.pdf" width="100%" height="500" frameborder="0" />
 
 We proposed three modules.: Enhanced Instance Pointers, Semantic-guided Mechanism, Multi-level cross-attention
 
