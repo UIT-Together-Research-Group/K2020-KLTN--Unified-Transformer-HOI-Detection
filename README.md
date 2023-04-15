@@ -86,9 +86,8 @@ In order to use our provided weights, you can download the weights provided belo
 Then, pass the directory of the downloaded file (for example, to test our pre-trained weights on the vcoco dataset, we put the downloaded weights under the directory checkpoints/vcoco.pth) to the 'resume' argument.
 
 ## 4. Results
-Here, we provide improved results of V-COCO Scenario 1 (58.9 mAP, 0.5ms) and HICO-DET Default(Full) (23.76 mAP) from the version of our initial submission (55.2 mAP & 23.46 mAP, 0.9ms).
+Here, we provide results of V-COCO Scenario 1 (60.88 mAP) and Scenario2 (65.69 mAP).
 This is obtained "without" applying any priors on the scores (see [iCAN](https://github.com/vt-vl-lab/iCAN/blob/83a363cfc80bf62538d5faf6ec17c871686c0635/lib/ult/apply_prior.py)).
-The fine-tuned version of HICO-DET can be obtained by only fine-tuning the FFN layers of the instance decoder (without the need of fully training the entire encoder-decoder).
 
 |# queries | Scenario 1   | Scenario 2  | Checkpoint   |
 |:-------:|:------------:|:-----------:|:------------:|
