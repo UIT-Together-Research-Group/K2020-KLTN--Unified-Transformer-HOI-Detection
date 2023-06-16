@@ -16,6 +16,7 @@ We experimented three modules in colab environmental
 !pip install pycocotools
 !pip install opencv-python
 !pip install wandb
+!pip install tensorflow
 ```
 
 
